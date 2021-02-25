@@ -1,0 +1,63 @@
+\documentclass[a4paper, 12pt]{extarticle}
+
+\usepackage[french, english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{tikz}
+
+\usepackage{fancyhdr, lastpage}
+\pagestyle{fancy}
+\fancyfoot[C]{{\thepage}/\pageref{LastPage}}
+
+% \usepackage{fontspec}
+% \setmainfont{Times New Roman}
+\usepackage{geometry}
+\geometry{a4paper,
+    total={170mm,257mm},
+    left=20mm,
+    top=7mm,
+ }
+
+\input{../rattra_infos.tex}
+\begin{document}
+
+\begin{center}
+    \begin{tabular}{ccc}
+        \textbf{REPUBLIC OF CAMEROON }              & \multirow{7}{*}{\resizebox{3cm}{4cm}{\includegraphics{../figs/ic_logo.jpg}}} & \textbf{REPUBLIQUE DU CAMEROUN}          \\
+        \scriptsize \textbf{PEACE-WORK-FATHERLAND } &                                                                              & \scriptsize \textbf{PAIX-TRAVAIL-PATRIE} \\
+        {\small **********}                         &                                                                              & {\small **********}                      \\
+        \textbf{UNIVERSITY OF DSCHANG}              &                                                                              & \textbf{UNIVERSITE DE DSCHANG}           \\
+        {\small **********}                         &                                                                              & {\small **********}                      \\
+        \textbf{FACULTY OF SCIENCE}                 &                                                                              & \textbf{FACULTE DES SCIENCE}             \\
+        {\small **********}                         &                                                                              & {\small **********}                      \\
+        \textbf{Deparment of physics}               &                                                                              & \textbf{Département de Physique}         \\
+    \end{tabular}
+\end{center}
+% \vspace{0.2cm}
+{\centering \rule{\linewidth}{0.03cm}}
+
+\begin{center}
+    \textbf{\courseTitle (\courseCode)}\\
+    \textbf{Correction}
+\end{center}
+\vspace{-0.5cm}
+\begin{center}
+    \scriptsize
+    \begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} l}
+        \textbf{Niveau:} \classLevel & \textbf{Durée:} \timeAllowed\\
+        \textbf{Année Académique:} \academicYear & \textbf{Session:} \examType\\
+        \textbf{Semestre:} \semester & \textbf{Date:} \examDate\\
+        \textbf{Document autorisés:} \docs & \textbf{Enseignant:} \teacher\\
+    \end{tabular*}
+\end{center}
+\vspace{-0.5cm}
+{\centering \rule{\textwidth}{0.02cm}}
+
+\input{../rattra_solution1.tex}
+\input{../rattra_solution2.tex}
+\input{../rattra_solution3.tex}
+
+
+\end{document}

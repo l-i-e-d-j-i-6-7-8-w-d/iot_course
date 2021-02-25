@@ -1,0 +1,1067 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"har",
+				"Hardware"
+			],
+			[
+				"pap",
+				"\\paperwidth                                       \tlatex-dev"
+			],
+			[
+				"usp",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"bgdo",
+				"\\begin{document}                                  \tlatex-document"
+			],
+			[
+				"douc",
+				"\\documentclass[options]{style}                    \tlatex-document"
+			],
+			[
+				"bedoc",
+				"\\begin{document}                                  \tlatex-document"
+			],
+			[
+				"btable",
+				"\\begin{table}                                     \tlatex-document"
+			],
+			[
+				"newl",
+				"\\newline                                          \tlatex-document"
+			],
+			[
+				"cap",
+				"\\caption{title}                                   \tlatex-document"
+			],
+			[
+				"bfig",
+				"\\begin{figure}                                    \tlatex-document"
+			],
+			[
+				"incl",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"und",
+				"\\underline{text}                                  \tlatex-document"
+			],
+			[
+				"to",
+				"\\today                                            \tlatex-document"
+			],
+			[
+				"sen",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"listngs",
+				"\\begin{lstlisting}[kv-list]                       \tlistings"
+			],
+			[
+				"docu",
+				"\\documentclass[options]{style}                    \tlatex-document"
+			],
+			[
+				"ard",
+				"arduinoPort\tstatement"
+			],
+			[
+				"rec",
+				"received_img_bytes_repr\tstatement"
+			],
+			[
+				"p",
+				"port\tstatement"
+			],
+			[
+				"po",
+				"ports\tstatement"
+			],
+			[
+				"im",
+				"img\tstatement"
+			],
+			[
+				"ima",
+				"img_shape\tstatement"
+			],
+			[
+				"res",
+				"received_img_string_repr\tstatement"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"str",
+				"string_repr\tstatement"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"imt",
+				"image_str\tstatement"
+			],
+			[
+				"byt",
+				"bytes\tclass"
+			],
+			[
+				"imag",
+				"image_str\tstatement"
+			],
+			[
+				"ra",
+				"rawString\tstatement"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"cu",
+				"current_port\tstatement"
+			],
+			[
+				"li",
+				"literal_eval\tfunction"
+			],
+			[
+				"TYPE",
+				"type\tclass"
+			],
+			[
+				"port",
+				"portChoisi\tstatement"
+			],
+			[
+				"textco",
+				"\\textcolor{name}{text}                            \tgraphicx"
+			],
+			[
+				"us",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"docum",
+				"\\documentclass{style}                             \tlatex-document"
+			],
+			[
+				"L",
+				"LyonCalc\tclass"
+			],
+			[
+				"tu",
+				"tau\tstatement"
+			],
+			[
+				"e",
+				"epsilon\tstatement"
+			],
+			[
+				"s",
+				"state\tfunction"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"addtoc",
+				"\\addtocounter{counter}{value}                     \tlatex-dev"
+			],
+			[
+				"newcount",
+				"\\newcounter{foo}                                  \tlatex-dev"
+			],
+			[
+				"ifel",
+				"\\if..\\else..\\fi                                   \ttex"
+			],
+			[
+				"ifnu",
+				"\\ifnum..\\fi                                       \ttex"
+			],
+			[
+				"newcon",
+				"\\newcounter{foo}[counter]                         \tlatex-dev"
+			],
+			[
+				"vl",
+				"\\value{counter}                                   \tlatex-dev"
+			],
+			[
+				"set",
+				"\\setcounter{counter}{value}                       \tlatex-dev"
+			],
+			[
+				"val",
+				"\\value{counter}                                   \tlatex-dev"
+			],
+			[
+				"newcou",
+				"\\newcounter{foo}                                  \tlatex-dev"
+			],
+			[
+				"ci",
+				"citep"
+			],
+			[
+				"bib",
+				"\\bibliography{file}                               \tlatex-document"
+			],
+			[
+				"he",
+				"hello"
+			],
+			[
+				"x",
+				"xr\tparam"
+			],
+			[
+				"b",
+				"beta"
+			],
+			[
+				"tran",
+				"transient\tstatement"
+			],
+			[
+				"_ta",
+				"_transient\tparam"
+			],
+			[
+				"sta",
+				"Start\tstatement"
+			],
+			[
+				"lis",
+				"list1\tstatement"
+			],
+			[
+				"wr",
+				"Warmup_Time\tstatement"
+			],
+			[
+				"w",
+				"Warmup_Time\tstatement"
+			],
+			[
+				"mg",
+				"MG\tstatement"
+			],
+			[
+				"Nel",
+				"NElementsOnTesting"
+			],
+			[
+				"dat",
+				"dataParam\tstatement"
+			],
+			[
+				"mem",
+				"Memory"
+			],
+			[
+				"data",
+				"dataParam\tparam"
+			],
+			[
+				"inc",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"renw",
+				"\\renewenvironment{nam}[args]{begdef}{enddef}      \tlatex-document"
+			],
+			[
+				"bdocu",
+				"\\begin{document}                                  \tlatex-document"
+			],
+			[
+				"sec",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"mat",
+				"matplotlib\tmodule"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"ma",
+				"maMaison"
+			],
+			[
+				"de",
+				"def\tFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 12470,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublREPL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublREPL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Conda/Conda.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublREPL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublREPL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublREPL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Conda/Conda.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "PdfLaTeX",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"condaa",
+				"Conda: Activate Environment"
+			],
+			[
+				"cond",
+				"Conda: Deactivate Environment"
+			],
+			[
+				"cont",
+				"Package Control: Install Package"
+			],
+			[
+				"cona",
+				"Conda: Activate Environment"
+			],
+			[
+				"conda",
+				"Conda: Activate Environment"
+			],
+			[
+				"con",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Conda: Install Package"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 286.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 1040))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 1034))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 1048))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 1042))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 1040))",
+			"lei",
+			"print \"i love you\"",
+			"print \"je vous aime\"",
+			"in = input(\"je suis liedji\")",
+			"print(\"je vous aime\")",
+			"dir",
+			"dor",
+			"ne pas faire ca",
+			"toto",
+			"liedji",
+			"print(\"bonjur\")",
+			"dir",
+			"clear",
+			"print(\"bonjour\")",
+			"ls",
+			"dir",
+			"import collections",
+			"import re",
+			"improt re",
+			"for",
+			"dir",
+			"exit()",
+			"dir",
+			"exit()",
+			"exit",
+			"dir",
+			"liejid",
+			"print(\"je suis liedji\" )",
+			"for x in range(0,50):",
+			"print(\"je suis liedji\" )",
+			"print(\"je suis liedji )",
+			"print(x)",
+			"x = \"liedji wenakca programmer\"",
+			"print(\"je suis liedji wenkack dagobert\")",
+			"print(\"comment aller vous ?\")",
+			"print(\"bonjour\")",
+			"dir",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 2422))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/iot_course/figs"
+	],
+	"file_history":
+	[
+		"/D/software/editors/Sublime Text Build 3211 x64/main.tex",
+		"/C/Users/liedji/Desktop/djomani/word_to_latex.py",
+		"/C/Users/liedji/Desktop/djomani/literature_review_modeling.tex",
+		"/D/programming/arduino/vlc_transmission/matlab_files.m",
+		"/C/Program Files/Miktex/tex/latex/unicode-math/unicode-math.sty",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/liedji.xsl",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/physicsthesis.cls",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/ma-these-en-latex-by-liedji.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/liedji.bst",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/chapter3.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/bib.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/footerUtils.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/footer.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/cover.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/dedication.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/Conclusion.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/abbreviations.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/abstract.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/chapter1.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/chapter2.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/certification.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/appendix.tex",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/docs/thesis/master-thesis-liedji/ma-these-en-latex-by-liedji-uds/acknowledgement.tex",
+		"/C/Users/liedji/Desktop/epj-plus/epjp-sp/template.tex",
+		"/C/Users/liedji/Desktop/epj-spec/latex/template.tex",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/Rc_classification/Echo_State_Network_with_a_single_dynamical_node/Training.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/Rc_classification/Echo_State_Network_with_a_single_dynamical_node/Visualization.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/Rc_classification/Reservoir-Computing-framework-for-multivariate-time-series-classification/plot_mackey_glass.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/Rc_classification/Echo_State_Network_with_a_single_dynamical_node/DynamicalNode_Reservoir.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/Rc_classification/Reservoir-Computing-framework-for-multivariate-time-series-classification/variate.tex",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/Rc_classification/Reservoir-Computing-framework-for-multivariate-time-series-classification/variate.log",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/Rc_classification/Reservoir-Computing-framework-for-multivariate-time-series-classification/README.md",
+		"/C/Users/liedji/Desktop/epj-plus/epjp/liedji-ejpp.bst",
+		"/C/Users/liedji/Desktop/epj-plus/epjp/template.tex",
+		"/C/Users/liedji/Documents/APK Easy Tool/1-Decompiled APKs/combo-vpn-4-2/smali/istark/combovpn/combovpn/MainActivity.smali",
+		"/D/Research/projects/pro_quantum_dot_laser_032020/condaTest.py",
+		"/C/Users/liedji/Documents/research/research2/Reservoir-Computing/linear_nodes.py",
+		"/C/Users/liedji/Documents/research/research2/Reservoir-Computing/calculate_pi_digits.py",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/Oger/nodes/linear_nodes.py",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/Oger/nodes/utility_nodes.py",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/Oger/nodes/nonlinear_nodes.py",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/Oger/utils/__init__.py",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/Oger/utils/utility_functions.py",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/lyon/__init__.py",
+		"/C/ProgramData/Anaconda3/lib/site-packages/Oger/__init__.py",
+		"/C/Users/liedji/Documents/research/research2/Reservoir-Computing/reservoir_nodes.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/testSun.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/DataBinding.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/appeltantReader.tex",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/Lyon-Speech-Commands/Lyon_Speech_Commands_Small/speechClassifierRC.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/Training.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/DataBinding.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/Visualization.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/ReservoirDynamics.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/note.tex",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/cov-19/cov-19.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/mybib.bib",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/Reservoir_Computing_with_a_Single_Dynamical_Node/MG_Oscillator.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/simulation.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/images/01ConstSantaFeresults.txt",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/Visualization.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/Lyon-Speech-Commands/Lyon_Speech_Commands_Small/speechLiedjiRc.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/Lyon-Speech-Commands/Lyon_Speech_Commands_Small/speechReelRC.py",
+		"/D/software/editors/Sublime Text Build 3211 x64/Data/Packages/User/Conda (Windows).sublime-settings",
+		"/D/programming/pandoc/learn/word_to_latex/speech.tex",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/draf.py",
+		"/C/Users/liedji/Desktop/download.py",
+		"/D/programming/fortran/rungeKutta4.f90",
+		"/D/programming/fortran/rk.f90",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/images/01ConstSunspotresults.txt",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/h5py/_objects.pyx",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/article/resume.tex",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/Lyon-Speech-Commands/speechClassifierRC.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/classification.tex",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/leuven.dat",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/latest/santafeAll.dat",
+		"/C/Users/liedji/Desktop/deep rc/Doctorat-PHD/reservoir/rc/DataBinding.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/simulation.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/file/file/comit2/DataBinding.py",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/images/results.txt",
+		"/D/Research/projects/pro_doctorat_phd_uds_2020_2022/project_0/programs/deep rc/yaanak/Training.py",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/liedji/Desktop/deep rc/bar.tex",
+		"/C/Users/liedji/Desktop/deep rc/foo.docx",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/User/sublREPL.sublime-build",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/liedji/Desktop/josa b/OSA-journal-template.tex",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/User/SublimeREPL.sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/User/Conda (Windows).sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/Conda/Conda (Windows).sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/User/pep8_autoformat.sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/User/AutoPep8.sublime-settings",
+		"/D/programming/editors/Sublime Text Build 3211 x64/Data/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/C/Users/liedji/Desktop/sublimeText3x-32XX-key.txt"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 206.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11949,
+								11949
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6669.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 86.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 180.0
+	},
+	"output.autopep8":
+	{
+		"height": 180.0
+	},
+	"output.exec":
+	{
+		"height": 341.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 179.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "iot.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"physicsthesis.cls"
+			],
+			[
+				"",
+				"ma-these-en-latex-by-liedji.tex"
+			],
+			[
+				"ma",
+				"ma-these-en-latex-by-liedji.tex"
+			],
+			[
+				"fo",
+				"footer.tex"
+			],
+			[
+				"lie",
+				"epjp\\liedji-ejpp.bst"
+			],
+			[
+				"liedji",
+				"epjp\\liedji-ejpp.bst"
+			],
+			[
+				"tet",
+				"epjp\\template.tex"
+			],
+			[
+				"data",
+				"DataBinding.py"
+			],
+			[
+				"test",
+				"latest\\testSun.py"
+			],
+			[
+				"res",
+				"latest\\ReservoirDynamics.py"
+			],
+			[
+				"reser",
+				"latest\\ReservoirDynamics.py"
+			],
+			[
+				"v",
+				"Visualization.py"
+			],
+			[
+				"dra",
+				"latest\\draf.py"
+			],
+			[
+				"ho",
+				"C:\\Users\\liedji\\Desktop\\hope.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
